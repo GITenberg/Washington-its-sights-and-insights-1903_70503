@@ -1,0 +1,32 @@
+_repo: Washington-its-sights-and-insights-1903_70503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monroe, Harriet Earhart
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '46521'
+    url: http://www.gutenberg.org/2009/agents/46521
+    wikipedia: https://en.wikipedia.org/wiki/Harriet_Earhart_Monroe
+description: ''
+gutenberg_issued: '2023-04-08'
+identifiers:
+  gutenberg: '70503'
+  lccn: '03010711'
+language: en
+pgterms:marc904: https://archive.org/details/washingtonitssig00monroe
+pgterms:marc905: 20210127080803monroe
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bFunk & Wagnalls Company, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- Description and travel'
+- !lcc 'F106'
+- GITenberg
+title: Washington, its sights and insights [1903]
+url: http://www.gutenberg.org/ebooks/70503
